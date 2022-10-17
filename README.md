@@ -3,7 +3,7 @@ Code-Lab-4: Meal Recommendation Engine
 
 Please run: docker compose run
 
-API: localhost:5000/
+API: localhost:5000/ <br>
 Consumer: localhost:80/
 
 Thanks,
